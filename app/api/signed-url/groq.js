@@ -1,4 +1,4 @@
-const Groq = require('groq-sdk');
+import Groq from 'groq-sdk';
 
 const groq = new Groq({ apiKey: "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" });
 
